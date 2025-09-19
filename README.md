@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/677857c1-9443-4b5e-93cf-bb5b5448881b" />🎯 Undo-Redo System in C
+Undo-Redo System in C
 
 This project is a terminal-based Undo-Redo System developed in the C programming language using Data Structures & Algorithms (DSA). It provides efficient undo and redo operations for text editing or command-based applications, demonstrating practical use of stacks, linked lists, and file handling. This project lays a strong foundation for implementing advanced editors, version control systems, and command history managers.
 
